@@ -2,7 +2,7 @@ LICENSE.md
 ===========
 
 Voxelnova shaders 
-by AmalPariyadan
+by Amal Pariyadan
 
 This texture pack is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
