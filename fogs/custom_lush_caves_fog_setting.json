@@ -1,0 +1,28 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:fog_settings": {
+      "description": {
+        "identifier": "linetfog:custom_fog_lush_caves"
+      },
+      "distance": {
+	  "air": {
+		"fog_start": 0,
+		"fog_end": 160,
+		"fog_color": "#7BEDC9",
+		"render_distance_type": "fixed"
+	  },
+      "water": {
+        "fog_start": 0,
+        "fog_end": 96,
+        "fog_color": "#78FAD1",
+        "render_distance_type": "fixed"
+	  },
+	  "weather": {
+		"fog_start": 0,
+		"fog_end": 160,
+		"fog_color": "#7BEDC9",
+		"render_distance_type": "fixed"
+      }
+    }
+  }
+}

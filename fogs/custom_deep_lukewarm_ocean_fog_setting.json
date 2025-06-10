@@ -1,0 +1,28 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:fog_settings": {
+      "description": {
+        "identifier": "linetfog:custom_fog_deep_lukewarm_ocean"
+      },
+      "distance": {
+      "air": {
+		"fog_start": 0,
+		"fog_end": 1.8,
+		"fog_color": "#96deff",
+		"render_distance_type": "render"
+	  },
+	  "water": {
+        "fog_start": 0,
+        "fog_end": 96,
+        "fog_color": "#379dcc",
+        "render_distance_type": "fixed"
+	  },
+	  "weather": {
+		"fog_start": 0,
+		"fog_end": 112,
+		"fog_color": "#96deff",
+		"render_distance_type": "fixed"  
+      }
+    }
+  }
+}

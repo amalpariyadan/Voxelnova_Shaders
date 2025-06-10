@@ -1,0 +1,28 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:fog_settings": {
+      "description": {
+        "identifier": "linetfog:custom_fog_mesa_trees"
+      },
+      "distance": {
+      "air": {
+		"fog_start": 0,
+		"fog_end": 1.8,
+		"fog_color": "#ffe7cc",
+		"render_distance_type": "render"
+	  },
+      "water": {
+        "fog_start": 0,
+        "fog_end": 96,
+        "fog_color": "#596d75",
+        "render_distance_type": "fixed"
+	  },
+	  "weather": {
+		"fog_start": 0,
+		"fog_end": 144,
+		"fog_color": "#ffe7cc",
+		"render_distance_type": "fixed"
+      }
+    }
+  }
+}

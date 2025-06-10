@@ -1,0 +1,28 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:fog_settings": {
+      "description": {
+        "identifier": "linetfog:custom_fog_warped_forest"
+      },
+      "distance": {
+      "air": {
+        "fog_start": 0,
+        "fog_end": 224,
+        "fog_color": "#43217b",
+        "render_distance_type": "fixed"
+      },
+      "water": {
+        "fog_start": 0,
+        "fog_end": 96,
+        "fog_color": "#905957",
+        "render_distance_type": "fixed"
+      },
+      "weather": {
+        "fog_start": 0,
+        "fog_end": 224,
+        "fog_color": "#24005e",
+        "render_distance_type": "fixed"
+      }
+    }
+  }
+}

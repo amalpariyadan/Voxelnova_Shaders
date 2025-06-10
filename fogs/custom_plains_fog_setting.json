@@ -1,0 +1,28 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:fog_settings": {
+      "description": {
+        "identifier": "linetfog:custom_fog_plains"
+      },
+      "distance": {
+      "air": {
+		"fog_start": 0,
+		"fog_end": 210,
+		"fog_color": "#70a9eb",
+		"render_distance_type": "fixed"
+	  },
+	  "water": {
+        "fog_start": 0,
+        "fog_end": 125,
+        "fog_color": "#85e9c9",
+        "render_distance_type": "fixed"
+	  },
+	  "weather": {
+		"fog_start": 0,
+		"fog_end": 50,
+		"fog_color": "#48656b",
+		"render_distance_type": "fixed"  
+      }
+    }
+  }
+}

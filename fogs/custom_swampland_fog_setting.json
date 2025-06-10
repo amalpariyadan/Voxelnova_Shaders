@@ -1,0 +1,28 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:fog_settings": {
+      "description": {
+        "identifier": "linetfog:custom_fog_swampland"
+      },
+      "distance": {
+      "air": {
+		"fog_start": 0,
+		"fog_end": 1.8,
+		"fog_color": "#99a9c0",
+		"render_distance_type": "render"
+	  },
+	  "water": {
+        "fog_start": 0,
+        "fog_end": 32,
+        "fog_color": "#4c6b62",
+	    "render_distance_type": "fixed"
+	  },
+	  "weather": {
+		"fog_start": 0,
+		"fog_end": 64,
+		"fog_color": "#99a9c0",
+		"render_distance_type": "fixed"  
+      }
+    }
+  }
+}

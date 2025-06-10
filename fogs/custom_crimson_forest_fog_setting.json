@@ -1,0 +1,28 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:fog_settings": {
+      "description": {
+        "identifier": "linetfog:custom_fog_crimson_forest"
+      },
+      "distance": {
+      "air": {
+        "fog_start": 0,
+        "fog_end": 200,
+        "fog_color": "#c00000",
+        "render_distance_type": "fixed"
+      },
+      "water": {
+        "fog_start": 0,
+        "fog_end": 96,
+        "fog_color": "#37315c",
+        "render_distance_type": "fixed"
+      },
+      "weather": {
+        "fog_start": 0,
+        "fog_end": 224,
+        "fog_color": "#965221",
+        "render_distance_type": "fixed"
+      }
+    }
+  }
+}
