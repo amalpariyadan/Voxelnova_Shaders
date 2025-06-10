@@ -1,0 +1,469 @@
+{
+  "biomes": {
+    "default": {
+      "fog_identifier": "blackstormgames.com:custom_fog_default",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF",
+      "water_fog_distance": 32
+    },
+    "plains": {
+      "fog_identifier": "blackstormgames.com:custom_fog_plains",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "sunflower_plains": {
+      "fog_identifier": "blackstormgames.com:custom_fog_sunflower_plains",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "desert": {
+      "fog_identifier": "blackstormgames.com:custom_fog_desert",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "extreme_hills": {
+      "fog_identifier": "blackstormgames.com:custom_fog_extreme_hills",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "forest": {
+      "fog_identifier": "blackstormgames.com:custom_fog_forest",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "flower_forest": {
+      "fog_identifier": "blackstormgames.com:custom_fog_forest",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "taiga": {
+      "fog_identifier": "blackstormgames.com:custom_fog_taiga",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "taiga_mutated": {
+      "fog_identifier": "blackstormgames.com:custom_fog_taiga",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "swampland": {
+      "fog_identifier": "blackstormgames.com:custom_fog_swampland",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4c6229",
+      "water_surface_transparency": 2.11,
+      "water_fog_color": "#4c6229",
+      "water_fog_distance": 2
+    },
+    "swampland_mutated": {
+      "fog_identifier": "blackstormgames.com:custom_fog_swampland",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4c6126",
+      "water_surface_transparency": 1.12,
+      "water_fog_color": "#4c6126",
+      "water_fog_distance": 2
+    },
+    "river": {
+      "fog_identifier": "blackstormgames.com:custom_fog_river",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF",
+      "water_fog_distance": 32
+    },
+    "hell": {
+      "fog_identifier": "blackstormgames.com:custom_fog_hell",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#912927",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#912927"
+    },
+    "the_end": {
+      "fog_identifier": "blackstormgames.com:custom_fog_the_end",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#6E1D97",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#6E1D97"
+    },
+    "frozen river": {
+      "fog_identifier": "blackstormgames.com:custom_fog_snow_river",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 1.12,
+      "water_fog_color": "#4FA1FF",
+      "water_fog_distance": 122
+    },
+    "ice_plains": {
+      "fog_identifier": "blackstormgames.com:custom_fog_snow",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 1.12,
+      "water_fog_color": "#4FA1FF"
+    },
+    "ice_plains_spikes": {
+      "fog_identifier": "blackstormgames.com:custom_fog_snow",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 1.12,
+      "water_fog_color": "#4FA1FF"
+    },
+    "ice_mountains": {
+      "fog_identifier": "blackstormgames.com:custom_fog_snow",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 1.12,
+      "water_fog_color": "#4FA1FF"
+    },
+    "mushroom_island": {
+      "fog_identifier": "blackstormgames.com:custom_fog_mushroom_island",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "mushroom_island_shore": {
+      "fog_identifier": "blackstormgames.com:custom_fog_mushroom_island",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "beach": {
+      "fog_identifier": "blackstormgames.com:custom_fog_beach",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF",
+      "water_fog_distance": 32
+    },
+    "desert_hills": {
+      "fog_identifier": "blackstormgames.com:custom_fog_desert",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "forest_hills": {
+      "fog_identifier": "blackstormgames.com:custom_fog_forest",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "taiga_hills": {
+      "fog_identifier": "blackstormgames.com:custom_fog_taiga",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "extreme_hills_edge": {
+      "fog_identifier": "blackstormgames.com:custom_fog_extreme_hills",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "jungle": {
+      "fog_identifier": "blackstormgames.com:custom_fog_jungle",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "jungle_mutated": {
+      "fog_identifier": "blackstormgames.com:custom_fog_jungle",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "jungle_hills": {
+      "fog_identifier": "blackstormgames.com:custom_fog_jungle",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "jungle_edge": {
+      "fog_identifier": "blackstormgames.com:custom_fog_jungle",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "stone_beach": {
+      "fog_identifier": "blackstormgames.com:custom_fog_stone_beach",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "cold_beach": {
+      "fog_identifier": "blackstormgames.com:custom_fog_cold_beach",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF",
+      "water_fog_distance": 64
+    },
+    "birch_forest": {
+      "fog_identifier": "blackstormgames.com:custom_fog_birch_forest",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "birch_forest_hills": {
+      "fog_identifier": "blackstormgames.com:custom_fog_birch_forest",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "roofed_forest": {
+      "fog_identifier": "blackstormgames.com:custom_fog_dark_forest",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "cold_taiga": {
+      "fog_identifier": "blackstormgames.com:custom_fog_snow_taiga",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "cold_taiga_mutated": {
+      "fog_identifier": "blackstormgames.com:custom_fog_snow_taiga",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "cold_taiga_hills": {
+      "fog_identifier": "blackstormgames.com:custom_fog_snow_taiga",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "mega_taiga": {
+      "fog_identifier": "blackstormgames.com:custom_fog_spruce_redwood",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "mega_spruce_taiga": {
+      "fog_identifier": "blackstormgames.com:custom_fog_spruce_redwood",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "mega_taiga_mutated": {
+      "fog_identifier": "blackstormgames.com:custom_fog_spruce_redwood",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "mega_spruce_taiga_mutated": {
+      "fog_identifier": "blackstormgames.com:custom_fog_spruce_redwood",
+         "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "mega_taiga_hills": {
+      "fog_identifier": "blackstormgames.com:custom_fog_spruce_redwood",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "extreme_hills_plus_trees": {
+      "fog_identifier": "blackstormgames.com:custom_fog_extreme_hills_plus_trees_mutated",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "extreme_hills_plus_trees_mutated": {
+      "fog_identifier": "blackstormgames.com:custom_fog_extreme_hills_plus_trees_mutated",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "extreme_hills_mutated": {
+      "fog_identifier": "blackstormgames.com:custom_fog_extreme_hills",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "savanna": {
+      "fog_identifier": "blackstormgames.com:custom_fog_savanna",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "savanna_plateau": {
+      "fog_identifier": "blackstormgames.com:custom_fog_savanna",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "savanna_mutated": {
+      "fog_identifier": "blackstormgames.com:custom_fog_shattered_savanna",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "mesa": {
+      "fog_identifier": "blackstormgames.com:custom_fog_mesa",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "mesa_bryce": {
+      "fog_identifier": "blackstormgames.com:custom_fog_mesa",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "mesa_mutated": {
+      "fog_identifier": "blackstormgames.com:custom_fog_mesa",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "mesa_plateau_stone": {
+      "fog_identifier": "blackstormgames.com:custom_fog_mesa_trees",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "mesa_plateau": {
+      "fog_identifier": "blackstormgames.com:custom_fog_mesa",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF"
+    },
+    "ocean": {
+      "fog_identifier": "blackstormgames.com:custom_fog_ocean",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF",
+      "water_fog_distance": 64
+    },
+    "deep_ocean": {
+      "fog_identifier": "blackstormgames.com:custom_fog_deep_ocean",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF",
+      "water_fog_distance": 64
+    },
+    "warm_ocean": {
+      "fog_identifier": "blackstormgames.com:custom_fog_warm_ocean",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF",
+      "water_fog_distance": 122
+    },
+    "deep_warm_ocean": {
+      "fog_identifier": "blackstormgames.com:custom_fog_deep_warm_ocean",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF",
+      "water_fog_distance": 122
+    },
+    "lukewarm_ocean": {
+      "fog_identifier": "blackstormgames.com:custom_fog_lukewarm_ocean",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF",
+      "water_fog_distance": 122
+    },
+    "deep_lukewarm_ocean": {
+      "fog_identifier": "blackstormgames.com:custom_fog_deep_lukewarm_ocean",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF",
+      "water_fog_distance": 122
+    },
+    "cold_ocean": {
+      "fog_identifier": "blackstormgames.com:custom_fog_cold_ocean",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF",
+      "water_fog_distance": 122
+    },
+    "deep_cold_ocean": {
+      "fog_identifier": "blackstormgames.com:custom_fog_deep_cold_ocean",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF",
+      "water_fog_distance": 122
+    },
+    "frozen_ocean": {
+      "fog_identifier": "blackstormgames.com:custom_fog_frozen_ocean",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF",
+      "water_fog_distance": 122
+    },
+    "deep_frozen_ocean": {
+      "fog_identifier": "blackstormgames.com:custom_fog_deep_frozen_ocean",
+      "inherit_from_prior_fog": true,
+      "water_surface_color": "#4FA1FF",
+      "water_surface_transparency": 7.00,
+      "water_fog_color": "#4FA1FF",
+      "water_fog_distance": 122
+    }
+  }
+}
+r_surface_transparency": 1.91,
+      "water_fog_color": "#2396db ",
+      "water_fog_distance": 122
+    }
+  }
+}
+

@@ -1,0 +1,21 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "Shader For Mcpe 1.20+ By Amal Pariyadan",
+    "name": "Voxelnova Shader",
+    "uuid": "d2f9c0fa-01e6-4e41-a1e5-6a8c4138a9e1",
+    "version": [1, 0, 0]
+  },
+  "modules": [
+    {
+      "description": "Created with the purpose of improving the player experience.",
+      "type": "resources",
+      "uuid": "c6d5b117-4388-4c6c-b5b7-b632bf4766cc",
+      "version": [1, 1, 0]
+    }
+  ],
+  "SE_info": {
+    "creator": "Amal Pariyadan",
+    "hash": "9a164f52c69489ee646c0d7fcc8e7c34"
+  }
+}
